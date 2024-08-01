@@ -86,7 +86,7 @@
  <repository>
    <id>nexus</id>
  <name>releases</>
-<url>http://43.204.217.221:8081/repository/nexusapp/</url>
+<url>http://35.154.104.91:8081//repository/chandana-app/</url>
  </repository>
 </distributionManagement>
 </project>
